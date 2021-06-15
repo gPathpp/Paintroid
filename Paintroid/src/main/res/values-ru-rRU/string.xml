@@ -143,8 +143,8 @@
     <string name="permission_info_external_storage_text">Этому приложению требуется запрошенное разрешение для правильной работы. Чтобы сохранять изображения в локальной памяти, приложению необходим доступ для чтения и записи.</string>
     <string name="permission_info_permanent_denial_text">Этому приложению требуется запрашиваемое разрешение для правильной работы. Чтобы сохранить изображения в локальную память, приложению необходимо иметь доступ к ним для чтения и записи.
         Как вы отказали в разрешении не спрашивать снова, перейдите в настройки телефона и предоставьте необходимые разрешения, если вы хотите использовать соответствующие функции.</string>
-    <string name="drawer_open" tools:ignore="UnusedResources">Open navigation drawer</string>
-    <string name="drawer_close" tools:ignore="UnusedResources">Close navigation drawer</string>
+    <string name="drawer_open" tools:ignore="UnusedResources">Открыть панель навигации</string>
+    <string name="drawer_close" tools:ignore="UnusedResources">Закрыть панель навигации</string>
     <string name="transform_info_text">Перетащите края на их новое место, а затем нажмите, чтобы увеличить или обрезать изображение.</string>
     <string name="cursor_draw_inactive">Нажмите, чтобы начать рисование.</string>
     <string name="cursor_draw_active">Нажмите кнопку, чтобы рисовать, затем снова, чтобы остановить рисование.</string>
